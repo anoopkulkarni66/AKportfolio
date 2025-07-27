@@ -27,7 +27,7 @@ export default function Hero() {
             <div className="relative">
               <div className="w-80 h-96 rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/public/avatar.png"
+                  src="avatar.png"
                   alt="Professional Avatar"
                   className="w-full h-full object-contain bg-gradient-to-br from-gray-50 to-gray-100"
                 />
